@@ -21,7 +21,6 @@ Print all the classifications of the triangle presented in the input.
 
 */
 
-
 #include <stdio.h>
 #include <math.h>
 

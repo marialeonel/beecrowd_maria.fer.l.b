@@ -27,6 +27,7 @@ public class Main1045 {
 
         triangleTypeIs(A, B, C);
         triangleSizeIs(A, B, C);
+        scanner.close();
     }
 
     public static void triangleTypeIs(double A, double B, double C) {
